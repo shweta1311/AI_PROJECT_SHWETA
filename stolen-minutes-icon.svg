@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Stolen Minutes">
+  <defs>
+    <linearGradient id="background" x1="60" y1="40" x2="452" y2="482" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#343961"/>
+      <stop offset="1" stop-color="#181a31"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#background)"/>
+  <circle cx="256" cy="256" r="149" fill="#222641" stroke="#f2b75c" stroke-width="20"/>
+  <path d="M256 164v100l69 42" fill="none" stroke="#f6f4ee" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"/>
+  <circle cx="256" cy="256" r="17" fill="#f2b75c"/>
+</svg>
+
