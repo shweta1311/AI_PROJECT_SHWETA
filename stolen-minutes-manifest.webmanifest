@@ -1,0 +1,20 @@
+{
+  "id": "./stolen-minutes-app.html",
+  "name": "Stolen Minutes",
+  "short_name": "Minutes",
+  "description": "A calm place for tasks, reminders, and monthly spending.",
+  "start_url": "./stolen-minutes-app.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#181a31",
+  "theme_color": "#181a31",
+  "icons": [
+    {
+      "src": "stolen-minutes-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
